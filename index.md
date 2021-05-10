@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+<style>
+body {background-image:url('github-site-BG.png'); background-repeat: repeat-y; }
+  section {width:800px!important;}
+  .wrapper {margin-top:75px;}
+  header {top:20px!important;}
+  .header-banner img{width:800px;}
+  .header-code img{position:relative;top:-10px;left:0px;max-width:800px!important;}
+  .session-wrapper{border:2px solid #fff; border-radius:0px; padding:20px; background-color:##D3D3D3;}
+  hr {margin-top:30px!important; margin-bottom:30px!important;}
+  .date {color:#abb7b7;}
+  .lrg-logo {display:none;}
+  .column {
+  float: left;
+  width: 18%;
+  padding: 5px;
+}
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	background-color:#ffffff;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Helvetica;
+	font-size:15px;
+	font-weight:normal;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+	background-color:#f6f6f6;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
 
-You can use the [editor on GitHub](https://github.com/vmwarecodeconnect/CodeConnect2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.right{float:right; color:#B5E853;}
+.left{float:left; color:#B5E853;}
+</style>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<a name="Keynotes"></a>
+# Keynotes:
+<div class="session-wrapper">
+<span class="left">Session: CODE4100</span><span class="right">Time: 9:00-9:30AM PDT</span>
+<br><br> 
+<h3><a href="Kit">Day 1 Keynote Session</a></h3>
+<h4 style="color:white">Presenter: Kit Colbert, VP & CTO, Cloud Platform BU at VMware</h4>
+In the everchanging automation world, VMware has standardized the automation of Kubernetes by... <a href="Kit">See More</a>
+<br>
+<br>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vmwarecodeconnect/CodeConnect2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
