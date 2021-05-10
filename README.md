@@ -1,4 +1,8 @@
 # CodeConnect2021
+<style>
+body {background-image:url('github-site-BG.png'); background-repeat: repeat-y; }
+.session-wrapper{border:2px solid #fff; border-radius:0px; padding:20px; background-color:##696969;}
+</style>
 
 
 # Keynotes:
