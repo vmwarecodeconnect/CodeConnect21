@@ -1,8 +1,8 @@
 # CodeConnect2021
 <style>
 body {background-image:url('github-site-BG.png'); background-repeat: repeat-y; }
-  section {width:800px!important;}
-  .wrapper {margin-top:75px;}
+  section {width:100%;}
+  .wrapper {margin-top:100%;}
   header {top:20px!important;}
   .header-banner img{width:800px;}
   .header-code img{position:relative;top:-10px;left:0px;max-width:800px!important;}
