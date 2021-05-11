@@ -63,6 +63,9 @@ hr.gradient {
 
 <div class="header-code"><img src="github-banner.jpg" class="header-banner"></div>
 
+<hr>
+        <hr class="gradient">
+
 # Keynotes:
 <div class="session-wrapper">
 <span class="left">Session: CODE5100</span><span class="right">Time: 9:00-10:00AM PDT</span>
