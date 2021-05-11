@@ -70,10 +70,22 @@ body {background-image:url('github-BG.png'); background-repeat: repeat-y; }
 <h3><a href="Keynote2">Day 1 Keynote Session</a></h3>
 <h4>Presenter: TBD</h4>
 <h4>Abstract: TBD <a href="Keynote2">See More</a></h4>
+<br>
+<br>
 </div>
-<br>
-<br>
+<hr/>
+	
+<!--This is a divider between boxes/-->
 
+<div class="session-wrapper">
+<span class="left">Session: CODE5100</span><span class="right">Time: 9:00-9:30AM PDT</span>
+<br><br> 
+<h3><a href="Keynote1">Day 1 Keynote Session</a></h3>
+<h4>Presenter: TBD</h4>
+<h4>Abstract: TBD <a href="Keynote1">See More</a></h4>
+<br>
+<br>
+</div>
 <hr/>
 	
 <!--This is a divider between boxes/-->
@@ -87,19 +99,7 @@ body {background-image:url('github-BG.png'); background-repeat: repeat-y; }
 </div>
 <br>
 <br>
-<hr/>
-	
-<!--This is a divider between boxes/-->
-
-<div class="session-wrapper">
-<span class="left">Session: CODE5100</span><span class="right">Time: 9:00-9:30AM PDT</span>
-<br><br> 
-<h3><a href="Keynote1">Day 1 Keynote Session</a></h3>
-<h4>Presenter: TBD</h4>
-<h4>Abstract: TBD <a href="Keynote1">See More</a></h4>
 </div>
-<br>
-<br>
 <hr/>
 
 
