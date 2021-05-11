@@ -169,7 +169,6 @@ hr.gradient {
                 </a>
             </div>
         </section>
-        <hr>
         <hr class="gradient">
 <h1 class="gradient-text">Keynotes:</h1>
 <div class="session-wrapper">
