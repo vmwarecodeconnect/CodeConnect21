@@ -31,6 +31,14 @@ body {background-image:url('cta-bg.png'); background-repeat: repeat-y; }
 	text-decoration:none;
 	text-shadow:0px 1px 0px #ffffff;
 }
+	
+.gradient-text {
+    /* background: -webkit-linear-gradient(270.97deg, #FFE580 -21.36%, #FF7571 -2.45%, #EA5DAD 26.84%, #C2A0FD 64.15%, #3BF0E4 108.29%, #B2F4B6 159.03%); */
+    background: linear-gradient(267.91deg, #FFE57F 9.35%, #FF7170 96.48%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;  
+   
+   }
 .myButton:hover {
 	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
 	background-color:#f6f6f6;
