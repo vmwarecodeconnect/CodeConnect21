@@ -3,7 +3,35 @@
 body {background-image:url('cta-bg.png'); background-repeat: repeat-y; }
   section {width:100%;}
   .wrapper {margin-top:100;}
-  header {top:20px!important;}
+  
+ 
+  header {
+    display: inline-block;
+    width: 100%;
+    height: 70px;
+    background: #040303;
+    border-bottom: 1px solid rgba(66,82,109,0.5);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    }
+header nav {
+    float: right;
+    margin-right: 30px;
+}
+header nav li {
+    display: inline-block;
+    margin-left: 9px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+header nav li.active {
+    border-bottom: 2px solid #d73a49;
+    /* border-bottom: 2px solid #FFE57F;  */
+    
+   }
+    
   .header-banner img{width:800px;}
   .header-code img{position:relative;top:-10px;left:0px;max-width:800px!important;}
   .session-wrapper{border:2px solid #fff; border-radius:0px; padding:20px; background-image:'cta-bg.png';}
@@ -63,7 +91,31 @@ hr.gradient {
 
 <div class="header-code"><img src="github-banner.jpg" class="header-banner"></div>
 
-
+ <header>
+            <img class="logo" src="asset/GitHub-Universe-logo-2020-white.svg">
+            <div class="time">December 8 - 10</div>
+            <div class="countdown-time">
+                <span class="d">22</span>
+                d
+                ::
+                <span class="h">1</span>
+                h
+                ::
+                <span class="m">48</span>
+                m
+                ::
+                <span class="s">6</span>
+                s
+            </div>
+            <nav>
+                <li class="active"><a href="">Schedule</a></li>
+                <li><a href="">Speakers</a></li>
+                <li><a href="">Experience</a></li>
+                <li><a href="">Sponsors</a></li>
+                <li><a href="">FAQ</a></li>
+                <li><a href="">Subscribe</a></li>
+            </nav>
+        </header>
 
 <h1 class="gradient-text">Keynotes:</h1>
 <div class="session-wrapper">
