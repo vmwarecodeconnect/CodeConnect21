@@ -57,7 +57,7 @@ body {background-image:url('github-BG.png'); background-repeat: repeat-y; }
 <br><br> 
 <h3><a href="Keynote1">Day 1 Keynote Session</a></h3>
 <h4>Presenter: TBD</h4>
-Abstract: TBD <a href="Keynote1">See More</a>
+<h4>Abstract: TBD <a href="Keynote1">See More</a></h4>
 <br>
 <br>
 
