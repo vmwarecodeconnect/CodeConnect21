@@ -65,7 +65,7 @@ hr.gradient {
 
 
 
-# Keynotes:
+<h1 class="gradient-text">Keynotes:</h1>
 <div class="session-wrapper">
 <span class="left">Session: CODE5100</span><span class="right">Time: 9:00-10:00AM PDT</span>
 <br><br> 
@@ -90,7 +90,7 @@ hr.gradient {
 <hr/>
 	
 <!--This is a divider between boxes/-->
-# Day 1 Sessions
+<h1 class="gradient-text">Day 1 Sessions</h1>
 <div class="session-wrapper">
 <span class="left">Session: CODE5102</span><span class="right">Time: 10:00-10:30AM PDT</span>
 <br><br> 
