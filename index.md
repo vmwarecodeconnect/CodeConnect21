@@ -63,8 +63,7 @@ hr.gradient {
 
 <div class="header-code"><img src="github-banner.jpg" class="header-banner"></div>
 
-<hr>
-        <hr class="gradient">
+
 
 # Keynotes:
 <div class="session-wrapper">
