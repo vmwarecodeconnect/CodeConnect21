@@ -110,7 +110,7 @@ header .logo {
                 <li><a href="">Speakers</a></li>
                 <li><a href="">Sponsors</a></li>
                 <li><a href="">FAQ</a></li>
-                <li><a href="">Join</a></li>
+                <li><a href="https://code.vmware.com/join">Join</a></li>
             </nav>
 	<br>
 	<br>
