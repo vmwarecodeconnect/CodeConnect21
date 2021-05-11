@@ -83,6 +83,13 @@ hr.gradient {
 	position:relative;
 	top:1px;
 }
+header .logo {
+    width: 250px;
+    float: left;
+    margin-right: 15px;
+    margin-top: 8px;
+    margin-left: 25px;
+   }
 
 .row::after {
   content: "";
