@@ -60,7 +60,7 @@ body {background-image:url('github-BG.png'); background-repeat: repeat-y; }
 <h4>Abstract: TBD <a href="Keynote1">See More</a></h4>
 <br>
 <br>
-<!--This is a divider between boxes/>
+<!--This is a divider between boxes/-->
 
 <div class="session-wrapper">
 <span class="left">Session: CODE5100</span><span class="right">Time: 9:00-9:30AM PDT</span>
