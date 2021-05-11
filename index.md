@@ -108,10 +108,9 @@ header .logo {
             <nav>
                 <li class="active"><a href="">Schedule</a></li>
                 <li><a href="">Speakers</a></li>
-                <li><a href="">Experience</a></li>
                 <li><a href="">Sponsors</a></li>
                 <li><a href="">FAQ</a></li>
-                <li><a href="">Subscribe</a></li>
+                <li><a href="">Join</a></li>
             </nav>
 	<br>
 	<br>
