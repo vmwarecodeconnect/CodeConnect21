@@ -89,12 +89,7 @@ header .logo {
     margin-top: 8px;
     margin-left: 25px;
    }
-   section.content-small {
-    height: auto !important;
-}
-section.content-small h1 {
-    margin-top: 0px !important;
-}
+
 section.content {
     text-align: center;
     display: inline-block;
