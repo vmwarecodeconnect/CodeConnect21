@@ -62,18 +62,7 @@ header nav li.active {
 	text-decoration:none;
 	text-shadow:0px 1px 0px #ffffff;
 }
-hr.gradient {
-    background: linear-gradient(269.16deg, #FFE580 -15.83%, #FF7571 -4.97%, #FF7270 15.69%, #EA5DAD 32.43%, #C2A0FD 50.09%, #9867F0 67.47%, #3BF0E4 84.13%, #33CE43 105.13%, #B2F4B6 123.24%);
-    height: 8px;
-	}
-	
-.gradient-text {
-    /* background: -webkit-linear-gradient(270.97deg, #FFE580 -21.36%, #FF7571 -2.45%, #EA5DAD 26.84%, #C2A0FD 64.15%, #3BF0E4 108.29%, #B2F4B6 159.03%); */
-    background: linear-gradient(267.91deg, #FFE57F 9.35%, #FF7170 96.48%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;  
-   
-   }
+
 .myButton:hover {
 	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
 	background-color:#f6f6f6;
@@ -127,17 +116,23 @@ section.content {
     background-position: 58% 50%;
     background-size: 500%;
     color: black;
+hr.gradient {
+    background: linear-gradient(269.16deg, #FFE580 -15.83%, #FF7571 -4.97%, #FF7270 15.69%, #EA5DAD 32.43%, #C2A0FD 50.09%, #9867F0 67.47%, #3BF0E4 84.13%, #33CE43 105.13%, #B2F4B6 123.24%);
+    height: 8px;
+}
+	
+.gradient-text {
+    /* background: -webkit-linear-gradient(270.97deg, #FFE580 -21.36%, #FF7571 -2.45%, #EA5DAD 26.84%, #C2A0FD 64.15%, #3BF0E4 108.29%, #B2F4B6 159.03%); */
+    background: linear-gradient(267.91deg, #FFE57F 9.35%, #FF7170 96.48%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;  
+   
 }
 .gradient-subtext {
     background: -webkit-linear-gradient(270.97deg, #FFE580 -21.36%, #FF7571 -2.45%, #EA5DAD 26.84%, #C2A0FD 64.15%, #3BF0E4 108.29%, #B2F4B6 159.03%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
-.gradient-text {
-    /* background: -webkit-linear-gradient(270.97deg, #FFE580 -21.36%, #FF7571 -2.45%, #EA5DAD 26.84%, #C2A0FD 64.15%, #3BF0E4 108.29%, #B2F4B6 159.03%); */
-    background: linear-gradient(267.91deg, #FFE57F 9.35%, #FF7170 96.48%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
     
 .text-gradient-purple {
     background: linear-gradient(87.54deg, #9867F0 -6.8%, #ED4E50 84.14%);
