@@ -91,7 +91,7 @@ body {background-image:url('github-BG.png'); background-repeat: repeat-y; }
 <!--This is a divider between boxes/-->
 
 <div class="session-wrapper">
-<span class="left">Session: CODE5103</span><span class="right">Time: 9:00-9:30AM PDT</span>
+<span class="left">Session: CODE5103</span><span class="right">Time: 9:30-10:00AM PDT</span>
 <br><br> 
 <h3><a href="CODE5103">Session Title, CODE5103</a></h3>
 <h4>Presenter: TBD</h4>
