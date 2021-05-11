@@ -119,9 +119,9 @@ hr.gradient {
                 <li><a href="">FAQ</a></li>
                 <li><a href="">Subscribe</a></li>
             </nav>
+	<br>
+	<br>
         </header>
-	<br>
-	<br>
 
 <h1 class="gradient-text">Keynotes:</h1>
 <div class="session-wrapper">
