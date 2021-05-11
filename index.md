@@ -60,6 +60,7 @@ body {background-image:url('github-BG.png'); background-repeat: repeat-y; }
 <h4>Abstract: TBD <a href="Keynote1">See More</a></h4>
 <br>
 <br>
+<hr/>
 <!--This is a divider between boxes/-->
 
 <div class="session-wrapper">
@@ -70,6 +71,7 @@ body {background-image:url('github-BG.png'); background-repeat: repeat-y; }
 <h4>Abstract: TBD <a href="Keynote2">See More</a></h4>
 <br>
 <br>
+<hr/>
 	
 <!--This is a divider between boxes/-->
 
@@ -81,6 +83,7 @@ body {background-image:url('github-BG.png'); background-repeat: repeat-y; }
 <h4>Abstract: TBD <a href="Keynote1">See More</a></h4>
 <br>
 <br>
+<hr/>
 	
 <!--This is a divider between boxes/-->
 
@@ -92,6 +95,7 @@ body {background-image:url('github-BG.png'); background-repeat: repeat-y; }
 <h4>Abstract: TBD <a href="Keynote1">See More</a></h4>
 <br>
 <br>
+<hr/>
 
 
 
