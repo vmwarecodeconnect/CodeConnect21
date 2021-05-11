@@ -89,6 +89,7 @@ header .logo {
     margin-right: 15px;
     margin-top: 8px;
     margin-left: 25px;
+    background-image: url("icon-and-text-800x200-transparent-bg");
    }
 
 .row::after {
