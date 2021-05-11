@@ -89,7 +89,6 @@ header .logo {
     margin-right: 15px;
     margin-top: 8px;
     margin-left: 25px;
-    background-image: url("icon-and-text-800x200-transparent-bg");
    }
 
 .row::after {
@@ -104,7 +103,6 @@ header .logo {
 <div class="header-code"><img src="github-banner.jpg" class="header-banner"></div>
 
  <header>
-            <img class="logo" src="icon-and-text-800x200-transparent-bg">
             <nav>
                 <li class="active"><a href="">Schedule</a></li>
                 <li><a href="">Speakers</a></li>
