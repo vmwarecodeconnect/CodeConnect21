@@ -34,6 +34,7 @@ header nav li.active {
     
   .header-banner img{width:800px;}
   .header-code img{position:relative;top:-10px;left:0px;max-width:800px!important;}
+  
   .session-wrapper{border:2px solid #fff; border-radius:0px; padding:20px; background-image:'cta-bg.png';}
   hr {margin-top:30px!important; margin-bottom:30px!important;}
   .date {color:#abb7b7;}
@@ -92,7 +93,7 @@ hr.gradient {
 <div class="header-code"><img src="github-banner.jpg" class="header-banner"></div>
 
  <header>
-            <img class="logo" src="asset/GitHub-Universe-logo-2020-white.svg">
+            <img class="logo" src="vmw-lgo-vmware-code-2020-cmyk-horiz_wht.eps">
             <div class="time">December 8 - 10</div>
             <div class="countdown-time">
                 <span class="d">22</span>
