@@ -49,6 +49,7 @@ body {background-image:url('github-BG.png'); background-repeat: repeat-y; }
 .left{float:left; color:#B5E853;}
 </style>
 
+<div class="header-code"><img src="github-banner.jpg" class="header-banner"></div>
 
 # Keynotes:
 <div class="session-wrapper">
