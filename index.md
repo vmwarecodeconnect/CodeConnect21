@@ -1,12 +1,12 @@
 # CodeConnect2021
 <style>
-body {background-image:url('github-BG.png'); background-repeat: repeat-y; }
+body {background-image:url('cta-bg.png'); background-repeat: repeat-y; }
   section {width:100%;}
   .wrapper {margin-top:100;}
   header {top:20px!important;}
   .header-banner img{width:800px;}
   .header-code img{position:relative;top:-10px;left:0px;max-width:800px!important;}
-  .session-wrapper{border:2px solid #fff; border-radius:0px; padding:20px; background-image:'github-BG.png';}
+  .session-wrapper{border:2px solid #fff; border-radius:0px; padding:20px; background-image:'cta-bg.png';}
   hr {margin-top:30px!important; margin-bottom:30px!important;}
   .date {color:#abb7b7;}
   .lrg-logo {display:none;}
