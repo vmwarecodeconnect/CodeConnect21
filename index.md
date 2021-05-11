@@ -100,7 +100,6 @@ section.content {
     text-transform: none;
     font-weight: 600;
     font-size: 14px;
-    padding: 4px 28px;
     height: 56px;
     border-radius: 0;
     overflow: hidden;
