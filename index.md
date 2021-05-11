@@ -128,17 +128,7 @@ hr.gradient {
     -webkit-text-fill-color: transparent;  
    
 }
-.gradient-subtext {
-    background: -webkit-linear-gradient(270.97deg, #FFE580 -21.36%, #FF7571 -2.45%, #EA5DAD 26.84%, #C2A0FD 64.15%, #3BF0E4 108.29%, #B2F4B6 159.03%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-    
-.text-gradient-purple {
-    background: linear-gradient(87.54deg, #9867F0 -6.8%, #ED4E50 84.14%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
+
 .row::after {
   content: "";
   clear: both;
@@ -170,7 +160,6 @@ hr.gradient {
                 </a>
             </div>
         </section>
-        <hr class="gradient">
 <h1 class="gradient-text">Keynotes:</h1>
 <div class="session-wrapper">
 <span class="left">Session: CODE5100</span><span class="right">Time: 9:00-10:00AM PDT</span>
