@@ -31,6 +31,10 @@ body {background-image:url('cta-bg.png'); background-repeat: repeat-y; }
 	text-decoration:none;
 	text-shadow:0px 1px 0px #ffffff;
 }
+hr.gradient {
+    background: linear-gradient(269.16deg, #FFE580 -15.83%, #FF7571 -4.97%, #FF7270 15.69%, #EA5DAD 32.43%, #C2A0FD 50.09%, #9867F0 67.47%, #3BF0E4 84.13%, #33CE43 105.13%, #B2F4B6 123.24%);
+    height: 8px;
+	}
 	
 .gradient-text {
     /* background: -webkit-linear-gradient(270.97deg, #FFE580 -21.36%, #FF7571 -2.45%, #EA5DAD 26.84%, #C2A0FD 64.15%, #3BF0E4 108.29%, #B2F4B6 159.03%); */
