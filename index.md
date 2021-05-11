@@ -131,10 +131,9 @@ hr {
     /* background: -webkit-linear-gradient(270.97deg, #FFE580 -21.36%, #FF7571 -2.45%, #EA5DAD 26.84%, #C2A0FD 64.15%, #3BF0E4 108.29%, #B2F4B6 159.03%); */
     background: linear-gradient(267.91deg, #FFE57F 9.35%, #FF7170 96.48%);
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;  
-   
-}
-
+    -webkit-text-fill-color: transparent;
+    }
+    
 .row::after {
   content: "";
   clear: both;
@@ -143,6 +142,7 @@ hr {
 .right{float:right; color:#B5E853;}
 .left{float:left; color:#B5E853;}
 </style>
+<!-- styling ends here -->
 
 <div class="header-code"><img src="github-banner.jpg" class="header-banner"></div>
 
