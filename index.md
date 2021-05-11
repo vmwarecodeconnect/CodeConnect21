@@ -96,21 +96,7 @@ hr.gradient {
 <div class="header-code"><img src="github-banner.jpg" class="header-banner"></div>
 
  <header>
-            <img class="logo" src="vmw-lgo-vmware-code-2020-cmyk-horiz_wht.eps">
-            <div class="time">December 8 - 10</div>
-            <div class="countdown-time">
-                <span class="d">22</span>
-                d
-                ::
-                <span class="h">1</span>
-                h
-                ::
-                <span class="m">48</span>
-                m
-                ::
-                <span class="s">6</span>
-                s
-            </div>
+            <img class="logo" src="icon-and-text-800x200-transparent-bg">
             <nav>
                 <li class="active"><a href="">Schedule</a></li>
                 <li><a href="">Speakers</a></li>
