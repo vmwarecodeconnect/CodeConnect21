@@ -1,4 +1,4 @@
-# CodeConnect2021
+<h1 class="gradient-text">Code Connect 2021</h1>
 <style>
 body {background-image:url('cta-bg.png'); background-repeat: repeat-y; }
   section {width:100%;}
