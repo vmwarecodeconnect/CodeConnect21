@@ -1,3 +1,6 @@
+<!--MIT License
+Copyright (c) 2020 Max Base
+-->
 <h1 class="gradient-text">Code Connect 2021</h1>
 <style>
 body {background-image:url('cta-bg.png'); background-repeat: repeat-y; }
